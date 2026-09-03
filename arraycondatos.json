@@ -1,0 +1,16 @@
+{
+    "estudiantes":[
+        {
+    "nombre": "Karen Caicedo",
+    "telefono": "3101234567"
+  },
+  {
+    "nombre": "Carlos Torres",
+    "telefono": "3159876543"
+  },
+  {
+    "nombre": "Sofía Paz",
+    "telefono": null
+  }
+    ]
+}
