@@ -1,0 +1,15 @@
+{
+   
+   
+    "Id": 0,
+    "Nombre": "Caramelo",
+    "Precio": 20.000,
+    "Disponible": true,
+    "Categoria":"Dulces",
+    "Fabricante":{
+        "Nombre": "lenovo",
+        "Pais": "china",
+        "Website": "http/lenovo.com"
+    }
+  }
+ 
